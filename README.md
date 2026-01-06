@@ -1,17 +1,17 @@
 # fullstack-project-management-system
 
 
-🚀 Project Management Platform (Full-Stack)
+## 🚀 Project Management Platform (Full-Stack)
 
 Status: 🚧 In Progress (Active Development)
 
-Overview
+## Overview
 
 A full-stack project management system designed to support project creation, task tracking, team collaboration, authentication, and subscription-based access.
 
 The goal of this project is to design and implement a scalable, production-style architecture using modern front-end and back-end technologies.
 
-🧠 System Architecture
+## 🧠 System Architecture
 
 Frontend
 
@@ -23,7 +23,7 @@ Tailwind CSS + Shadcn UI
 
 JWT-based authentication flow
 
-Backend
+## Backend
 
 Spring Boot REST API
 
@@ -33,11 +33,11 @@ MySQL database using Spring Data JPA
 
 Role-based access control (Admin / Member)
 
-Payments
+## Payments
 
 Razorpay integration for subscription billing
 
-🧩 Planned Core Features
+## 🧩 Planned Core Features
 
 User authentication & authorization (JWT)
 
@@ -49,7 +49,7 @@ Secure RESTful API design
 
 Subscription-based access via payment gateway
 
-📌 Current Progress
+## 📌 Current Progress
 
 ✔ System design and feature planning completed
 
@@ -61,7 +61,7 @@ Subscription-based access via payment gateway
 
 🚧 Backend API implementation in progress
 
-🛠️ Learning Objectives
+## 🛠️ Learning Objectives
 
 Build a real-world full-stack application
 
@@ -73,7 +73,7 @@ Manage complex global state using Redux
 
 Integrate third-party payment services
 
-🔮 Future Enhancements
+## 🔮 Future Enhancements
 
 Notifications & activity logs
 
@@ -83,7 +83,7 @@ Deployment with Docker & cloud hosting
 
 Automated testing (unit + integration)
 
-⚠️ Note:
+## ⚠️ Note:
 This project is currently under active development and is being built incrementally with a focus on clean architecture, scalability, and best practices.
 
 
